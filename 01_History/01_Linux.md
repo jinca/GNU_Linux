@@ -80,20 +80,16 @@ Ver más en el esquema de particiones que sugiere [Red Hat](https://access.redha
 - [x] /root ----> directorio principal de Dios 
 - [x] /tmp ----> directorio temporal 
 - [x] /opt ----> algunos programas instalan aquí 
-- [x] /mnt --> sirven para mostrar dispositivos de media, unidades de red. 
-=============================
-=============================
-- [x] /media--|
-
-???  Indicar que hay en la carpeta /bin y /dev 
+- [x] /mnt ---> sirven para mostrar dispositivos de media, unidades de red. 
+- [x] /media
+- [ ] /bin 
+- [ ] /dev 
 
 ## Importancia de GNU/Linux
 
-Todas las supercomputadoras del TOP500 liderada por China, utilizan Linux:
-https://fossbytes.com/top-500-linux-supercomputers-list-2017/
+Todas las supercomputadoras del TOP500 liderada por China, utilizan Linux en un [100%](https://www.top500.org/statistics/details/osfam/1).
 
-Android ha nacido basado en el kernel de Linux
-https://en.wikipedia.org/wiki/Android_(operating_system)
+Android ha nacido basado en el kernel de [Linux](https://en.wikipedia.org/wiki/Android_(operating_system)).
 
 Ha dado lugar a la creación de Hardware Libre como Arduino, bajo la licencia LGPL
 https://www.arduino.cc/en/Main/FAQ#toc2
