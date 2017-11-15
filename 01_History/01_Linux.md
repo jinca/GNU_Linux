@@ -92,12 +92,11 @@ Ver más en el esquema de particiones que sugiere [Red Hat](https://access.redha
 
 :penguin: Ha dado lugar a la creación de Hardware Libre como [Arduino](https://www.arduino.cc/en/Main/FAQ#toc2), bajo la licencia LGPL.
 
-:penguin: Desde hace más de 20 años, muchas [comunidades de software libre](http://www.linux-magazine.com/Online/Blogs/Off-the-Beat-Bruce-Byfield-s-Blog/What-makes-for-a-community-distribution
-) han nacido para dar soporte a las diferentes distribuciones
+:penguin: Muchas [comunidades de software libre](http://www.linux-magazine.com/Online/Blogs/Off-the-Beat-Bruce-Byfield-s-Blog/What-makes-for-a-community-distribution) han nacido para dar soporte a las diferentes distribuciones.
 
-:penguin: Linux es [educación](https://opensource.com/education/14/9/linux-education-public-school)
+:penguin: Linux es [educación](https://opensource.com/education/14/9/linux-education-public-school).
 
-:penguin: Ahorra [energía](http://linrunner.de/en/tlp/docs/tlp-linux-advanced-power-management.html)
+:penguin: Ahorra [energía](http://linrunner.de/en/tlp/docs/tlp-linux-advanced-power-management.html).
 
 ## Open Source vs Software Libre
 
