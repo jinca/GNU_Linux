@@ -37,44 +37,46 @@ Debian (basado en deb y apt) y Red Hat (basado en rpm y yum).
 Mapa de Distribuciones 
 ----------------------
 
-* Distribuciones 
+ Debian (Servidor)           | Red Hat
 
-Debian (Servidor)           | Red Hat
+ Ubuntu (Distro mas popular) | Fedora (Escritorio)
 
-Ubuntu (Distro mas popular) | Fedora (Escritorio)
+        Desktop (Escritorio) | RHEL (Servidor)
 
-       Desktop (Escritorio) | RHEL (Servidor)
+           Server (Servidor) | CentOS (clon de RHEL)
+ 
+                             | Oracle Linux (Clon de RHEL)
+ 
+                             | Scientific Linux (Clon de RHEL)
 
-          Server (Servidor) | CentOS (clon de RHEL)
+      Linux Mint(Escritorio) | SuSE
 
-                            | Oracle Linux (Clon de RHEL)
+            Basado en Ubuntu | OpenSuSE (Escritorio)
 
-                            | Scientific Linux (Clon de RHEL)
-
-     Linux Mint(Escritorio) | SuSE
-
-           Basado en Ubuntu | OpenSuSE (Escritorio)
-
-                            | SLES (Servidor)
-
-                            | Mageia (Escritorio)
+                             | SLES (Servidor)
+ 
+                             | Mageia (Escritorio)
 
 Otros: Slackware, Gentoo, DanSmall Linux, etc 
 
-__**Debian** representa el **éxito de la comunidad**, garantizando la libertad de sus usuarios y apoyo desinteresado de los mismos para hacer de Debian una distribución de excelente calidad. 
+_**Debian** representa el **éxito de la comunidad**, garantizando la libertad de sus usuarios y apoyo desinteresado de los mismos para hacer de Debian una distribución de excelente calidad. 
 
-**Red Hat** representa el **éxito de la empresa** y consolida a Linux dentro de los servidores corporativos.__
+**Red Hat** representa el **éxito de la empresa** y consolida a Linux dentro de los servidores corporativos._
 
 ## Instalación
 
-El número de particiones mínimas para instalar Linux es dos, una para el swap y otro para el root.
+* Para instalar mínima de Linux se requiere 600MB de disco libre para escritorio y 1.6 GB para una versión servidor con 64 MB de RAM.
 
-Linux: ------> Tiene su propio sistema de archivos ext2,ext3,ext4,btrfs 
+* Linux tiene su propio sistema de archivos ext2,ext3,ext4,y btrfs 
 
-Swap --> es una memoria virtual en el disco duro Linux soporta: FAT, NTFS, JFS, XFS Para instalar en linux se necesita como mínimo una particion Swap y una partición raíz. 
+* Utiliza la Swap como una memoria virtual en el disco duro Linux soporta: FAT, NTFS, JFS, XFS 
 
-Directorios: 
-===========
+* Para instalar Linux se necesita como mínimo una particion Swap y una partición raíz. 
+
+Ver más en el esquema de particiones que sugiere [Red Hat](https://access.redhat.com/documentation/es-es/red_hat_enterprise_linux/6/html/installation_guide/s2-diskpartrecommend-x86) y una guía gráfica de instalación para [Fedora 26](https://lleksah.wordpress.com/2017/09/25/switching-from-ubuntu-to-fedora/).
+
+
+## Directorios: 
 
 / ----> raiz 
 /boot ----> directorio de arranque del sistema operativo configuración de grub 
@@ -87,13 +89,12 @@ Directorios:
 /root ----> directorio principal de Dios 
 /tmp ----> directorio temporal 
 /opt ----> algunos programas instalan aquí 
-/mnt --|>[sirven para mostrar dispositivos de media, unidades de red. 
+/mnt --> sirven para mostrar dispositivos de media, unidades de red. 
 /media--|
 
 ???  Indicar que hay en la carpeta /bin y /dev 
 
-Importancia de GNU/Linux
-========================
+## Importancia de GNU/Linux
 
 Todas las supercomputadoras del TOP500 liderada por China, utilizan Linux:
 https://fossbytes.com/top-500-linux-supercomputers-list-2017/
@@ -113,8 +114,7 @@ https://opensource.com/education/14/9/linux-education-public-school
 Ahorra energía
 http://linrunner.de/en/tlp/docs/tlp-linux-advanced-power-management.html
 
-Open Source vs Software Libre
-=============================
+## Open Source vs Software Libre
 
 En 1997, Eric Raymond escribe "La catedral y el Bazar", este ensayo analiza dos modelos de producción de software bien diferenciados. Por un lado, la catedral, que representa el modelo de desarrollo más hermético y vertical característico del Software propietario; y por el otro el bazar, con su dinámica horizontal y "bulliciosa", que caracterizó al desarrollo del kernel Linux y otros proyectos de software libre que se potenciaron con el trabajo comunitario a través de Internet del código abierto.
 
