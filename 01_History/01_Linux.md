@@ -40,21 +40,30 @@ Mapa de Distribuciones
 * Distribuciones 
 
 Debian (Servidor)           | Red Hat
+
 Ubuntu (Distro mas popular) | Fedora (Escritorio)
+
        Desktop (Escritorio) | RHEL (Servidor)
+
           Server (Servidor) | CentOS (clon de RHEL)
+
                             | Oracle Linux (Clon de RHEL)
+
                             | Scientific Linux (Clon de RHEL)
+
      Linux Mint(Escritorio) | SuSE
+
            Basado en Ubuntu | OpenSuSE (Escritorio)
+
                             | SLES (Servidor)
+
                             | Mageia (Escritorio)
 
 Otros: Slackware, Gentoo, DanSmall Linux, etc 
 
-_**Debian** representa el **éxito de la comunidad**, garantizando la libertad de sus usuarios y apoyo desinteresado de los mismos para hacer de Debian una distribución de excelente calidad. 
+__**Debian** representa el **éxito de la comunidad**, garantizando la libertad de sus usuarios y apoyo desinteresado de los mismos para hacer de Debian una distribución de excelente calidad. 
 
-**Red Hat** representa el **éxito de la empresa** y consolida a Linux dentro de los servidores corporativos._
+**Red Hat** representa el **éxito de la empresa** y consolida a Linux dentro de los servidores corporativos.__
 
 ## Instalación
 
