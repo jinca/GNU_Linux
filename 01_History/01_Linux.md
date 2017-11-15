@@ -39,14 +39,14 @@ Debian (basado en deb y apt) y Red Hat (basado en rpm y yum).
  Debian (Servidor)           | Red Hat
  ----------------------------|-------------------------------
  Ubuntu (Distro mas popular) | Fedora (Escritorio)
-        Desktop (Escritorio) | RHEL (Servidor)
-           Server (Servidor) | CentOS (clon de RHEL)
-                             | Oracle Linux (Clon de RHEL)
-                             | Scientific Linux (Clon de RHEL)
-      Linux Mint(Escritorio) | SuSE
-            Basado en Ubuntu | OpenSuSE (Escritorio)
-                             | SLES (Servidor)
-                             | Mageia (Escritorio)
+ Desktop (Escritorio) | RHEL (Servidor)
+ Server (Servidor) | CentOS (clon de RHEL)
+ | Oracle Linux (Clon de RHEL)
+ | Scientific Linux (Clon de RHEL)
+ Linux Mint(Escritorio) | SuSE
+ Basado en Ubuntu | OpenSuSE (Escritorio)
+ | SLES (Servidor)
+ | Mageia (Escritorio)
 
 Otros: Slackware, Gentoo, DanSmall Linux, etc 
 
@@ -80,41 +80,34 @@ Ver más en el esquema de particiones que sugiere [Red Hat](https://access.redha
 - [x] /root ----> directorio principal de Dios 
 - [x] /tmp ----> directorio temporal 
 - [x] /opt ----> algunos programas instalan aquí 
-- [x] /mnt ---> sirven para mostrar dispositivos de media, unidades de red. 
-- [x] /media
-- [ ] /bin 
-- [ ] /dev 
+- [x] /media---> sirven para mostrar dispositivos de media, unidades de red. 
+- [x] /mnt ----> punto de montaje temporal
+- [x] /bin ----> se encuentran todos los archivos ejecutables del sistema. Están muchos de los comandos que usamos habitualmente.
 
 ## Importancia de GNU/Linux
 
-Todas las supercomputadoras del TOP500 liderada por China, utilizan Linux en un [100%](https://www.top500.org/statistics/details/osfam/1).
+:penguin: Todas las supercomputadoras del TOP500 liderada por China, utilizan Linux en un [100%](https://www.top500.org/statistics/details/osfam/1).
 
-Android ha nacido basado en el kernel de [Linux](https://en.wikipedia.org/wiki/Android_(operating_system)).
+:penguin: [Android](https://en.wikipedia.org/wiki/Android_(operating_system)) ha nacido basado en el kernel de Linux.
 
-Ha dado lugar a la creación de Hardware Libre como Arduino, bajo la licencia LGPL
-https://www.arduino.cc/en/Main/FAQ#toc2
+:penguin: Ha dado lugar a la creación de Hardware Libre como [Arduino](https://www.arduino.cc/en/Main/FAQ#toc2), bajo la licencia LGPL.
 
-Desde hace más de 20 años, muchas comunidades de software libre han nacido para dar soporte a las diferentes distribuciones
-http://www.linux-magazine.com/Online/Blogs/Off-the-Beat-Bruce-Byfield-s-Blog/What-makes-for-a-community-distribution
+:penguin: Desde hace más de 20 años, muchas [comunidades de software libre](http://www.linux-magazine.com/Online/Blogs/Off-the-Beat-Bruce-Byfield-s-Blog/What-makes-for-a-community-distribution
+) han nacido para dar soporte a las diferentes distribuciones
 
-Linux es educación
-https://opensource.com/education/14/9/linux-education-public-school
+:penguin: Linux es [educación](https://opensource.com/education/14/9/linux-education-public-school)
 
-Ahorra energía
-http://linrunner.de/en/tlp/docs/tlp-linux-advanced-power-management.html
+:penguin: Ahorra [energía](http://linrunner.de/en/tlp/docs/tlp-linux-advanced-power-management.html)
 
 ## Open Source vs Software Libre
 
 En 1997, Eric Raymond escribe "La catedral y el Bazar", este ensayo analiza dos modelos de producción de software bien diferenciados. Por un lado, la catedral, que representa el modelo de desarrollo más hermético y vertical característico del Software propietario; y por el otro el bazar, con su dinámica horizontal y "bulliciosa", que caracterizó al desarrollo del kernel Linux y otros proyectos de software libre que se potenciaron con el trabajo comunitario a través de Internet del código abierto.
 
-Es una figura líder en el Movimiento del Open Source y el Código abierto.
+[ESR](https://es.wikipedia.org/wiki/Eric_S._Raymond) es una figura líder en el Movimiento del Open Source y el Código abierto.
 
-Diferencias:
------------
+## Diferencias:
 
-- El Software Libre hace hincapié en cuestiones éticas y morales relacionadas con el software, viendo el aspecto técnico como secundario, a diferencia del movimiento Open Source que lo establece como prioritario.
+- El Software Libre hace hincapié en cuestiones éticas y morales relacionadas con el software, viendo el aspecto técnico como secundario, a diferencia del movimiento Open Source que lo establece como prioritario. Leer [más]((https://hipertextual.com/archivo/2014/05/diferencias-software-libre-y-open-source/)...
 
 - Con una aplicación desarrollada bajo los estándares del Software Libre puedes obtener remuneración por conceptos de desarrollo, soporte y puesta a punto siempre y cuando entregues los fuentes, a diferencia del movimiento Open Source que no te obliga a hacerlo. Todos los productos desarrollados en Software Libre así como sus derivados siempre deben ser libres, a diferencia de Open Source. 
-
-Extraído del [blog](https://hipertextual.com/archivo/2014/05/diferencias-software-libre-y-open-source/)
-
+(https://hipertextual.com/archivo/2014/05/diferencias-software-libre-y-open-source/)
