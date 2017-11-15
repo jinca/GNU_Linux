@@ -1,14 +1,13 @@
 # Introducción a Software Libre y GNU/Linux 
 
 ## Richard Stallman [RMS](https://en.wikipedia.org/wiki/Richard_Stallman#/media/File:NicoBZH_-_Richard_Stallman_(by-sa)_(10).jpg) 
-================
 
 Richard Stallman creó el movimiento del Software Libre con el proyecto [GNU](https://www.gnu.org/) (GNU not UNIX) que intentaba crear un sistema operativo superior a Unix y que fuera completamente Libre.
 Por ello creó el proyecto GNU en 1983 y la Fundación de Software Libre [(FSF](http://www.fsf.org/ )) en 1985, donde estableció de un marco de referencia moral,político y legal para el movimiento del software libre, como una alternativa al desarrollo y distribución del software no libre o privativo.
 
 :arrow_right: Fruto de este trabajo se creó la licencia GPL y LPGL. 
 
-La GPL establece 4 libertades: 
+La [GPL](https://www.gnu.org/licenses/) establece 4 libertades: 
 
 * Libertad 0: la libertad de usar el programa, con cualquier propósito. 
 * Libertad 1: la libertad de estudiar cómo funciona el programa y modificarlo, adaptándolo a tus necesidades. 
@@ -19,29 +18,18 @@ Cuando uno publica o distribuye un software bajo la GPL esta obligado a publicar
 Sin embargo lo que no obliga la GPL, es que tu tengas que publicar obligatoriamente las modificaciones del software GPL que hayas tomado como base. 
 Por ejemplo Google gana miles de millones de dólares usando Linux y software libre (GPL y otros) pero solo publica un porcentaje muy limitado de sus proyectos internos. 
 
-Licencias:
-https://www.gnu.org/licenses/
 
-Linus Torlvalds
-===============
-
-Figura:
-https://en.wikipedia.org/wiki/Linus_Torvalds#/media/File:Linus_Torvalds.jpeg
+## Linus Torlvalds [LBT](https://en.wikipedia.org/wiki/Linus_Torvalds#/media/File:Linus_Torvalds.jpeg)
 
 - En 1991, en Helsinki, Linus Torvalds comenzó un proyecto que más tarde se llegó a ser el núcleo Linux; en ese instante el no sabía la dimensión que iba a alcanzar su proyecto. 
 
-- A fines de 1992, Linux libera su kernel con la licencia GPL, consiguiendo que el Sistema Operativo lograra un crecimiento espectacular.
+- A fines de 1992, Linux libera su kernel con la licencia GPL, consiguiendo que el Sistema Operativo lograra un [crecimiento espectacular](https://www.youtube.com/watch?v=sujZg7jwKdk).
 
 - Linux como proyecto es solamente el núcleo (kernel) del sistema operativo; la combinación con las herramientas de GNU (compilador de C, bash, el debugger) ha creado la base para desarrollar las distribuciones; por eso es común referirse a Linux como GNU/Linux. 
 
-- Las distribuciones toman en un momento determinado una versión del kernel de Linux y la combinan con herramientas GNU, le crean un instalador y herramientas de administración, algunas distribuciones se basan en otras distribuciones y le dan un valor añadido. 
-
-Video OS Revolution:
-https://www.youtube.com/watch?v=sujZg7jwKdk
-
-
-Distribuciones
-==============
+## Distribuciones
+  
+Las distribuciones toman en un momento determinado una versión del kernel de Linux y la combinan con herramientas GNU, le crean un instalador y herramientas de administración, algunas distribuciones se basan en otras distribuciones y le dan un valor añadido. 
 
 Sin embargo del universo de distribuciones las más importantes; por su relevancia e influencia en las demás distribuciones, son dos: 
 Debian (basado en deb y apt) y Red Hat (basado en rpm y yum). 
