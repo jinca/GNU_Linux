@@ -41,12 +41,12 @@ Debian (basado en deb y apt) y Red Hat (basado en rpm y yum).
  Ubuntu (Distro mas popular) | Fedora (Escritorio)
  Desktop (Escritorio) | RHEL (Servidor)
  Server (Servidor) | CentOS (clon de RHEL)
- - | Oracle Linux (Clon de RHEL)
- - | Scientific Linux (Clon de RHEL)
+  | Oracle Linux (Clon de RHEL)
+  | Scientific Linux (Clon de RHEL)
  Linux Mint(Escritorio) | SuSE
  Basado en Ubuntu | OpenSuSE (Escritorio)
- - | SLES (Servidor)
- - | Mageia (Escritorio)
+  | SLES (Servidor)
+  | Mageia (Escritorio)
 
 Otros: Slackware, Gentoo, DanSmall Linux, etc 
 
@@ -107,6 +107,7 @@ En 1997, Eric Raymond escribe "La catedral y el Bazar", este ensayo analiza dos 
 
 ## Diferencias:
 
-- El Software Libre hace hincapié en cuestiones éticas y morales relacionadas con el software, viendo el aspecto técnico como secundario, a diferencia del movimiento Open Source que lo establece como prioritario. Leer [más](https://hipertextual.com/archivo/2014/05/diferencias-software-libre-y-open-source/)...
+- El Software Libre hace hincapié en cuestiones éticas y morales relacionadas con el software, viendo el aspecto técnico como secundario, a diferencia del movimiento Open Source que lo establece como prioritario. 
 
-- Con una aplicación desarrollada bajo los estándares del Software Libre puedes obtener remuneración por conceptos de desarrollo, soporte y puesta a punto siempre y cuando entregues los fuentes, a diferencia del movimiento Open Source que no te obliga a hacerlo. Todos los productos desarrollados en Software Libre así como sus derivados siempre deben ser libres, a diferencia de Open Source. 
+- Con una aplicación desarrollada bajo los estándares del Software Libre puedes obtener remuneración por conceptos de desarrollo, soporte y puesta a punto siempre y cuando entregues los fuentes, a diferencia del movimiento Open Source que no te obliga a hacerlo. Todos los productos desarrollados en Software Libre así como sus derivados siempre deben ser libres, a diferencia de Open Source. Leer [más](https://hipertextual.com/archivo/2014/05/diferencias-software-libre-y-open-source/)...
+ 
