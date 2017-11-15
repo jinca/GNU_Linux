@@ -1,6 +1,7 @@
 # Introducción a Software Libre y GNU/Linux 
 
-## Richard Stallman [RMS](https://en.wikipedia.org/wiki/Richard_Stallman#/media/File:NicoBZH_-_Richard_Stallman_(by-sa)_(10).jpg) 
+## Richard Stallman [RMS](https://stallman.org/) 
+![alt text](https://github.com/jinca/GNU_Linux/blob/master/Images/1024px-NicoBZH_-_Richard_Stallman_(by-sa)_(10).jpg)
 
 Richard Stallman creó el movimiento del Software Libre con el proyecto [GNU](https://www.gnu.org/) (GNU not UNIX) que intentaba crear un sistema operativo superior a Unix y que fuera completamente Libre.
 Por ello creó el proyecto GNU en 1983 y la Fundación de Software Libre [(FSF](http://www.fsf.org/ )) en 1985, donde estableció de un marco de referencia moral,político y legal para el movimiento del software libre, como una alternativa al desarrollo y distribución del software no libre o privativo.
