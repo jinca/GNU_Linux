@@ -20,7 +20,9 @@ Sin embargo lo que no obliga la GPL, es que tu tengas que publicar obligatoriame
 Por ejemplo Google gana miles de millones de dólares usando Linux y software libre (GPL y otros) pero solo publica un porcentaje muy limitado de sus proyectos internos. 
 
 
-## Linus Torlvalds [LBT](https://en.wikipedia.org/wiki/Linus_Torvalds#/media/File:Linus_Torvalds.jpeg)
+## Linus Torlvalds [LBT](https://github.com/torvalds)
+
+![alt text](https://github.com/jinca/GNU_Linux/blob/master/Images/Linus_Torvalds.jpeg)
 
 - En 1991, en Helsinki, Linus Torvalds comenzó un proyecto que más tarde se llegó a ser el núcleo Linux; en ese instante el no sabía la dimensión que iba a alcanzar su proyecto. 
 
