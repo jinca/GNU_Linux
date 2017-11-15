@@ -34,34 +34,25 @@ Las distribuciones toman en un momento determinado una versión del kernel de Li
 Sin embargo del universo de distribuciones las más importantes; por su relevancia e influencia en las demás distribuciones, son dos: 
 Debian (basado en deb y apt) y Red Hat (basado en rpm y yum). 
 
-Mapa de Distribuciones 
-----------------------
+## Mapa de Distribuciones 
 
  Debian (Servidor)           | Red Hat
-
+ ----------------------------|-------------------------------
  Ubuntu (Distro mas popular) | Fedora (Escritorio)
-
         Desktop (Escritorio) | RHEL (Servidor)
-
            Server (Servidor) | CentOS (clon de RHEL)
- 
                              | Oracle Linux (Clon de RHEL)
- 
                              | Scientific Linux (Clon de RHEL)
-
       Linux Mint(Escritorio) | SuSE
-
             Basado en Ubuntu | OpenSuSE (Escritorio)
-
                              | SLES (Servidor)
- 
                              | Mageia (Escritorio)
 
 Otros: Slackware, Gentoo, DanSmall Linux, etc 
 
-_**Debian** representa el **éxito de la comunidad**, garantizando la libertad de sus usuarios y apoyo desinteresado de los mismos para hacer de Debian una distribución de excelente calidad. 
+_**Debian** representa el **éxito de la comunidad**, garantizando la libertad de sus usuarios y apoyo desinteresado de los mismos para hacer de Debian una distribución de excelente calidad._ 
 
-**Red Hat** representa el **éxito de la empresa** y consolida a Linux dentro de los servidores corporativos._
+_**Red Hat** representa el **éxito de la empresa** y consolida a Linux dentro de los servidores corporativos._
 
 ## Instalación
 
@@ -78,19 +69,21 @@ Ver más en el esquema de particiones que sugiere [Red Hat](https://access.redha
 
 ## Directorios: 
 
-/ ----> raiz 
-/boot ----> directorio de arranque del sistema operativo configuración de grub 
-/etc  ----> archivos de configuración 
-/home ----> directorios de los usuarios 
-/usr ----> binarios,librerías,documentacion 
-/var ----> archivos que crecen o modifican (correo,base de datos, logs) 
-/dev ----> referencia de los perifericos (hardware) 
-/proc ----> directorio temporal con punteros a los recursos fisicos de la computadora 
-/root ----> directorio principal de Dios 
-/tmp ----> directorio temporal 
-/opt ----> algunos programas instalan aquí 
-/mnt --> sirven para mostrar dispositivos de media, unidades de red. 
-/media--|
+- [x] / ----> raiz 
+- [x] /boot ----> directorio de arranque del sistema operativo configuración de grub 
+- [x] /etc  ----> archivos de configuración 
+- [x] /home ----> directorios de los usuarios 
+- [x] /usr ----> binarios,librerías,documentacion 
+- [x] /var ----> archivos que crecen o modifican (correo,base de datos, logs) 
+- [x] /dev ----> referencia de los perifericos (hardware) 
+- [x] /proc ----> directorio temporal con punteros a los recursos fisicos de la computadora 
+- [x] /root ----> directorio principal de Dios 
+- [x] /tmp ----> directorio temporal 
+- [x] /opt ----> algunos programas instalan aquí 
+- [x] /mnt --> sirven para mostrar dispositivos de media, unidades de red. 
+=============================
+=============================
+- [x] /media--|
 
 ???  Indicar que hay en la carpeta /bin y /dev 
 
