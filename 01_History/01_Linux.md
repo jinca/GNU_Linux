@@ -37,24 +37,29 @@ Debian (basado en deb y apt) y Red Hat (basado en rpm y yum).
 Mapa de Distribuciones 
 ----------------------
 
-* Distribuciones Debian (Servidor) |Red Hat 
+* Distribuciones 
 
+Debian (Servidor)           |Red Hat 
 Ubuntu (Distro mas popular) | Fedora (Escritorio) 
-   Desktop (Escritorio) | RHEL (Servidor) 
-
-      Server (Servidor) | CentOS (clon de RHEL) 
-                        | Oracle Linux (Clon de RHEL) 
-                        | Scientific Linux (Clon de RHEL) 
- Linux Mint(Escritorio) |SuSE 
-       Basado en Ubuntu | OpenSuSE (Escritorio) 
-                        | SLES (Servidor) 
-                        |Mageia (Escritorio) 
+       Desktop (Escritorio) | RHEL (Servidor) 
+          Server (Servidor) | CentOS (clon de RHEL) 
+                            | Oracle Linux (Clon de RHEL) 
+                            | Scientific Linux (Clon de RHEL) 
+     Linux Mint(Escritorio) |SuSE 
+           Basado en Ubuntu | OpenSuSE (Escritorio) 
+                            | SLES (Servidor) 
+                            |Mageia (Escritorio) 
 
 Otros: Slackware, Gentoo, DanSmall Linux, etc 
 
-- Debian representa el éxito de la comunidad, garantizando la libertad de sus usuarios y apoyo desinteresado de los mismos para hacer de Debian una distribución de excelente calidad. 
+_**Debian** representa el **éxito de la comunidad**, garantizando la libertad de sus usuarios y apoyo desinteresado de los mismos para hacer de Debian una distribución de excelente calidad.__ 
 
-- Red Hat representa el éxito de la empresa y consolida a Linux dentro de los servidores corporativos. 
+__**Red Hat** representa el **éxito de la empresa** y consolida a Linux dentro de los servidores corporativos.__ 
+
+
+## Instalación
+
+El numero de particiones minimas para instalar Linux es dos, una para el swap y otro para el root.
 
 Linux: ------> Tiene su propio sistema de archivos ext2,ext3,ext4,btrfs 
 
