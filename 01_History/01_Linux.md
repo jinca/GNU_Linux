@@ -41,12 +41,12 @@ Debian (basado en deb y apt) y Red Hat (basado en rpm y yum).
  Ubuntu (Distro mas popular) | Fedora (Escritorio)
  Desktop (Escritorio) | RHEL (Servidor)
  Server (Servidor) | CentOS (clon de RHEL)
-  | Oracle Linux (Clon de RHEL)
-  | Scientific Linux (Clon de RHEL)
+ _ | Oracle Linux (Clon de RHEL)
+ _ | Scientific Linux (Clon de RHEL)
  Linux Mint(Escritorio) | SuSE
  Basado en Ubuntu | OpenSuSE (Escritorio)
-  | SLES (Servidor)
-  | Mageia (Escritorio)
+ _ | SLES (Servidor)
+ _ | Mageia (Escritorio)
 
 Otros: Slackware, Gentoo, DanSmall Linux, etc 
 
