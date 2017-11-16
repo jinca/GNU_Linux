@@ -55,6 +55,8 @@ Debian (basado en deb y apt) y Red Hat (basado en rpm y yum).
 
 Otros: Slackware, Gentoo, DanSmall Linux, etc 
 
+_**Slackware Linux** es una distribución del sistema operativo GNU/Linux creada en 1993 por Patrick Volkerding. Basada originalmente en SLS Linux, Slackware es la distribución de GNU/Linux más antigua aún en mantenimiento._
+
 _**Debian** representa el **éxito de la comunidad**, garantizando la libertad de sus usuarios y apoyo desinteresado de los mismos para hacer de Debian una distribución de excelente calidad._ 
 
 _**Red Hat** representa el **éxito de la empresa** y consolida a Linux dentro de los servidores corporativos._
@@ -73,6 +75,8 @@ Ver más en el esquema de particiones que sugiere [Red Hat](https://access.redha
 
 
 ## Directorios: 
+
+![alt text](https://github.com/jinca/GNU_Linux/blob/master/Images/filesystem(jinca).png)
 
 - [x] / ----> raiz 
 - [x] /boot ----> directorio de arranque del sistema operativo configuración de grub 
@@ -102,6 +106,8 @@ Ver más en el esquema de particiones que sugiere [Red Hat](https://access.redha
 :penguin: Linux es [educación](https://opensource.com/education/14/9/linux-education-public-school).
 
 :penguin: Ahorra [energía](http://linrunner.de/en/tlp/docs/tlp-linux-advanced-power-management.html).
+
+![alt text](https://github.com/jinca/GNU_Linux/blob/master/Images/linux_events30.jpg)
 
 ## Open Source vs Software Libre
 
