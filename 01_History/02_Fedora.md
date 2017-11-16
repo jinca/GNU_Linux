@@ -1,8 +1,6 @@
 # Fedora
 
-<p align="center">
-<img src="Fedora_logo.svg">
-</p>
+![Alt Text]("Fedora_logo.svg")
 
 ## Comienzos e historia
 
