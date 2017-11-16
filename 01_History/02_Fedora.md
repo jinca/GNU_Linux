@@ -36,11 +36,17 @@ Es recomendable leer toda la documentación posible que ofrece Fedora para que e
 
 ## Las 4 Fs
 
-Las 4 F de Fedora:
-* Features
+_"Fedora siempre es libre para que cualquiera lo use, modifique y distribuya. Lo construyen y usan personas por todo el mundo que trabajan en conjunto como una comunidad: el Proyecto Fedora."_
+
+* Features  
 * Friends
 * Freedom
 * First
+
+<p align="left">
+<img src="https://github.com/jinca/GNU_Linux/blob/master/Images/FedoraPeru.png">
+</p>
+
 
 <p align="right">
 <img src="https://github.com/jinca/GNU_Linux/blob/master/Images/4Foundations.png">
