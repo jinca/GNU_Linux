@@ -1,5 +1,9 @@
 # Fedora
 
+<p align="center">
+<img src="Fedora_logo.svg">
+</p>
+
 ## Comienzos e historia
 
 Fedora es un sistema operativo basado en Linux utilizando [RPM](https://es.wikipedia.org/wiki/RPM_Package_Manager) creado el 06 de Noviembre del año 2003, desarrollado por la comunidad del proyecto Fedora, patrocinado por Red Hat.
