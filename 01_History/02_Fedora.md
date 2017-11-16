@@ -30,7 +30,15 @@ Cuando se trata de una selección depurada de paquetes de software de propósito
 
 Los miembros de la comunidad de Fedora usualmente postean sus experiencias con Fedora en el [Planet de Fedora](http://fedoraplanet.org/) y en caso desee enterarse de las novedades y artículos relacionados a Fedora, éstos son publicados en el [Fedora Magazine](https://fedoramagazine.org/). 
 
+En general, la más amplia documentación se tiene en la [Wiki de Fedora](https://fedoraproject.org). En esta página se puede encontrar información desde [cómo unirte a Fedora](https://fedoraproject.org/wiki/Join), a través de las [listas](https://lists.fedoraproject.org/archives/) y [canales de IRC](https://fedoraproject.org/wiki/IRC), de acuerdo a las preferencias y skills que Ud. tenga. 
+
+Es recomendable leer toda la documentación posible que ofrece Fedora para que en caso Ud. desee esté listo para poder contirbuir. Lo primero que debe hacer es crear su [cuenta FAS](https://admin.fedoraproject.org/accounts/) para que se pueda tener acceso tanto a las wikis y demás herramientas con las que trabaja Fedora.
+
 ## Las 4 Fs
+
+<p align="left">
+<img src="https://github.com/jinca/GNU_Linux/blob/master/Images/Fedora_logo.svg">
+</p>
 
 
 ## Manejador de Paquetes
