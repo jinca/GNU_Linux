@@ -37,6 +37,8 @@ Las distribuciones toman en un momento determinado una versión del kernel de Li
 Sin embargo del universo de distribuciones las más importantes; por su relevancia e influencia en las demás distribuciones, son dos: 
 Debian (basado en deb y apt) y Red Hat (basado en rpm y yum). 
 
+![alt text](https://github.com/jinca/GNU_Linux/blob/master/Images/ldt681.png)
+
 ## Mapa de Distribuciones 
 
  Debian (Servidor)           | Red Hat
