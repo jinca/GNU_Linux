@@ -11,7 +11,7 @@ Fedora es un sistema operativo basado en Linux utilizando [RPM](https://es.wikip
 
 Desde Febrero 2016, se estima que Fedora tiene más de 1.2 millones de usuarios, incluyendo a [Linux Torvalds](http://www.tuxradar.com/content/interview-linus-torvalds-linux-format-163), el creador del kernel de Linux.  
 
-La versión actual de Fedora es F27; y, desde F21, se tienen tres ediciones:
+La versión actual de Fedora es F27; y puede ser obtenida [online](https://getfedora.org/). Desde F21, se tienen tres ediciones:
 
 * Fedora Workstation, para computadoras de uso personal.
 * Fedora Server, para servidores que soportan negocios.
@@ -23,9 +23,12 @@ Fedora se enfoca en la innovación y en la integración de nuevas tecnlogías en
 
 El entorno de escritorio que viene por defecto en Fedora es GNOME, pero es posible cambiarlo e instalar KDE, Plasma, Xfce, LXDE, MATE o Cinnamon. A esto se llama, los [spin de Fedora](https://spins.fedoraproject.org/es/).
 
+Cuando se trata de una selección depurada de paquetes de software de propósito específico y contenido, estamos hablando de [Fedora Labs](https://labs.fedoraproject.org/es/).Ejemplo, Fedora para Astrónomos, la Suite Robotica, la versión de Seguridad, Fedora para diseñar, o jugar, entre otras. Esta colección es depurada y mantenida por miembros de la Comunidad Fedora, y pueden ser instaladas como versiones completas autónomas de Fedora o como complementos a instalaciones de Fedora existentes.
+
  
 ## Comunidad
 
+Los miembros de la comunidad de Fedora usualmente postean sus experiencias con Fedora en el [Planet de Fedora](http://fedoraplanet.org/) y en caso desee enterarse de las novedades y artículos relacionados a Fedora, éstos son publicados en el [Fedora Magazine](https://fedoramagazine.org/). 
 
 ## Las 4 Fs
 
