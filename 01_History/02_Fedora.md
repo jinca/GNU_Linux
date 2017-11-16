@@ -54,7 +54,24 @@ _"Fedora siempre es libre para que cualquiera lo use, modifique y distribuya. Lo
 
 ## Manejador de Paquetes
 
+DNF es un gestor de paquetes escrito en python, que usa curl, y apareció por primera vez disponible para la versión de F18 y es el gestor de paquetes oficial para Fedora 22.
+Nació con la idea de mejorar las funciones de YUM. Entre las grandes mejoras nos encontramos que los paquetes se almacenan por defecto en el cache del sistema y el uso de meta datos, teniendo así un especie de función aprueba de errores, facilitando la descarga de los paquetes a instalar o actualizar, en caso de que ocurra algún problema externo podemos recuperar nuestra instalación a partir del ultimo paquete descargado. 
 
-## EPEL
+Con DNF podemos instalar, desinstalar, actualizar, remover y listar paquetes, entre otras muchas [opciones más](https://fedoraproject.org/wiki/DNF?rd=Dnf).
 
-## Rawhide
+Un ejemplo práctico para poder instalar y desintalar GIMP (GNU Image Manipulation Program) es:
+
+`$sudo dnf install gimp`
+`$sudo dnf remove gimp`
+ 
+## Más conceptos Fedora
+
+* [EPEL](https://fedoraproject.org/wiki/EPEL/es): Paquetes Adicionales para Linux Empresarial
+* [Rawhide](https://fedoraproject.org/wiki/Releases/Rawhide?rd=Releases/Rawhide/en): corresponde al respositorio que contiene el atual desarrollo de Fedora.
+* [Atomic](http://www.projectatomic.io/docs/introduction/): es un sistema operativo basado en Kubernetes y contenedores.
+
+## GSoC for Fedora
+
+El GSoC es un programa de respalda Google para estudiantes de universidades e institutos a nivel mundial para poder mejorar proyectos de Software Libre y Open Source. Hay muchos ejemplos de proyectos a los que los estudiantes pueden acceder para consultar y proponer desarrollo en el proyecto Fedora. 
+Aquí, algunos proyectos anteriores:[GSoC 2016](https://fedoraproject.org/wiki/Summer_coding_ideas_for_2016),[GSoC 2015](https://fedoraproject.org/wiki/GSOC_2015/Student_Application_gnarula),[GSoC 2014](https://fedoraproject.org/wiki/Summer_coding_ideas_for_2014), [etc](https://fedoraproject.org/wiki/Summer_of_Code).
+
