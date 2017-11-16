@@ -1,6 +1,6 @@
 # Fedora
 
-![Alt Text]("Fedora_logo.svg")
+![alt Text]("Fedora_logo.svg")
 
 ## Comienzos e historia
 
