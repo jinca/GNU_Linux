@@ -1,6 +1,7 @@
 # Fedora
 
-![alt text]("Fedora_logo.svg")
+![alt text](https://github.com/jinca/GNU_Linux/blob/master/Images/Fedora_logo.svg)
+
 
 ## Comienzos e historia
 
