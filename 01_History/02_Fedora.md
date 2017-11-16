@@ -36,16 +36,15 @@ Es recomendable leer toda la documentación posible que ofrece Fedora para que e
 
 ## Las 4 Fs
 
-<p align="right">
-<img src="https://github.com/jinca/GNU_Linux/blob/master/Images/4Foundations.png">
-</p>
-
 Las 4 F de Fedora:
 * Features
 * Friends
 * Freedom
-* First 
+* First
 
+<p align="right">
+<img src="https://github.com/jinca/GNU_Linux/blob/master/Images/4Foundations.png">
+</p>
 
 ## Manejador de Paquetes
 
