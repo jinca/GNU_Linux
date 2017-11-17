@@ -56,10 +56,7 @@ tty7 (Presionando Ctrl+Alt+F7)  ---> consola gráfica
 
 ## Prompt del Sistema 
 
-[alumno@localhost ~] 
+<p align="center">
+<img src="https://github.com/jinca/GNU_Linux/blob/master/Images/prompt.png">
+</p>
 
-|        |        |__________________________________________ Ruta del Directorio actual 
-
-|        |_________________________Nombre del Equipo (Hostname) 
-
-|̣___̣_______ Nombre del usuario 
