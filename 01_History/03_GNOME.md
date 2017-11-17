@@ -32,10 +32,15 @@ GNOME tiene aproximadamente [152 aplicaciones](https://wiki.gnome.org/Apps), las
 
 Para poder comenzar a leer código y hacer modificaciones, es recomendable leer el [manual de "newcomers"](https://wiki.gnome.org/Newcomers/) y en caso tenga Ud. dudas o desee asesoramiento online, es posible obtenerlo a través de los diferentes [canales IRC](https://wiki.gnome.org/Community/GettingInTouch/IRC) y/o las [listas de cada uno de los grupos](https://mail.gnome.org/archives/) que contribuyen con GNOME.
 
-Se sugiere instalar Polari para utilizar IRC y comenzar a configurar las salas necesarias para que otros miembros de GNOME puedan asesorarnos remotamente ante cualquier pregunta que tengamos.
+Se sugiere instalar [Polari](https://help.gnome.org/users/polari/stable/) para utilizar IRC y comenzar a configurar las salas necesarias para que otros miembros de GNOME puedan asesorarnos remotamente ante cualquier pregunta que tengamos.
 
 ## Eventos de GNOME
 
+Desde el año 2000 se ha celebrado un evento que congrega a los usuarios y desarrolladores de GNOME, llamado [GUADEC](https://en.wikipedia.org/wiki/GNOME_Users_And_Developers_European_Conference) en Europa. El primer GUADEC del año 2000, fue celebrado en Paris, Francia y el último del 2017, se ha celebrado en Manchester, UK. 
+
+Existe otro evento que se celebra en anualmente en Asia, y es llamado [GNOME Asia](https://wiki.gnome.org/GnomeAsia). Habiéndose celebrado el primer evento en Beijing, China in 2008 y el último en Chongqing, China en el año 2017.
+
+Gracias al apoyo de la Fundación GNOME, en el Perú desde el año 2011 se han venido desarrollando muchos eventos a favor de la promoción del uso de GNOME tanto en Lima como en provincias. Uno de los primeros eventos fue realizado en la PUCP en el año 2011, para celebrar la versión [GNOME 3.2](https://lleksah.wordpress.com/2011/12/12/release-party-gnome-peru/). Seguido por el [Linux Camp](https://lleksah.wordpress.com/2012/05/29/linux-camp-peru-2012/) en el 2012, el [GNOME PERU FEST 2013](https://lleksah.wordpress.com/2013/05/01/gnomeperu2013/), el [GNOME PERU FEST 2014](https://lleksah.wordpress.com/2014/06/30/gnomeperufest2014-was-celebrated-in-ibm-peru/) en IBM y el [GNOME PERU FEST 2015](https://lleksah.wordpress.com/2015/03/19/i-organize-therefore-i-am-gnome-peru-fest-2015/) en PetroPeru, [HackCamp 2016](https://lleksah.wordpress.com/2016/03/07/hack-camp-2016-fedora-gnome/), [LinuXatUNI](https://lleksah.wordpress.com/2016/11/29/linuxatuni/), [Linux Playa 2017](https://lleksah.wordpress.com/2017/03/09/linuxplaya-2017-the-fedora-and-gnome-fest-at-the-beach/) y many local events in universities such as UNTELS, USIL, UNAC, UPN, UTP, UPIG, UNMSM, UNI, UNAS, UNU, UNSAAC, UNICA.  
 
 ## GSoC para GNOME
 
