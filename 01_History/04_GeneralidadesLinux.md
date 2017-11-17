@@ -60,3 +60,43 @@ tty7 (Presionando Ctrl+Alt+F7)  ---> consola gráfica
 <img src="https://github.com/jinca/GNU_Linux/blob/master/Images/prompt.png">
 </p>
 
+## Rutas de Directorios
+
+**Ruta Absoluta**
+
+Aquella ruta que se toma en cuenta desde la raíz 
+
+Ejemplo: 
+
+$> ls /etc/fedora-release 
+
+
+**Ruta Relativa**
+
+Aquella ruta que se toma en cuenta desde el directorio actual 
+
+
+_Responder_
+
+$> cd /etc
+ 
+$> ls fedora-release 
+
+$> ls ../usr/share/doc 
+
+$> ls .
+
+$> cat /etc/passwd
+
+<p align="center">
+<img src="https://github.com/jinca/GNU_Linux/blob/master/Images/passwd.png">
+</p>
+
+
+## Autocompletar
+
+* Autocompleta Rutas (Absolutas y Relativas de archivos de archivos) 
+
+* Autocompleta nombres de comandos. Ejemplo: ca <TAB> 
+
+* Autocompleta nombres de variables de entorno. Ejemplo: HOST <TAB> 
