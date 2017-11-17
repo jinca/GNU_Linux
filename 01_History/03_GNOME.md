@@ -18,7 +18,7 @@ La reciente versión de GNOME es la 3.26 y corre sobre los sistemas operativos F
 
 Actualmente se cuenta con más de 6,000 contribuidores y se cuenta con 8 millones de líneas de código. Todas las personas que han contribuido con el proyecto tienen un [hackergotchi](http://planet.gnome.org/heads/) y publican sus experiencias en el [Planet de GNOME](http://planet.gnome.org/).
 
-Se cuenta con el apoyo de la [Fundación GNOME](https://www.gnome.org/foundation/), en caso se tenga que tomar decisiones para el futuro del proyecto.
+Se cuenta con el apoyo de la [Fundación GNOME](https://www.gnome.org/foundation/) que se encarga de dar soporte al proyecto y organizacion como mejor sea para la comunidad, incluyendo conferencias, viajes, y decisiones tecnicas como que software es parte de GNOME, aunque deja la mayoria de las decisiones tecnicas a la comunidad.
 
 Si desea ser parte de la comunidad de GNOME, puede hacerlo de manera libre y voluntaria revisando la [wiki](https://wiki.gnome.org/Community) donde se indica que es lo que podemos hacer por GNOME.
 
