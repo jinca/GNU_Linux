@@ -76,17 +76,17 @@ $> ls /etc/fedora-release
 Aquella ruta que se toma en cuenta desde el directorio actual 
 
 
-_Responder_
+_Responder:_
 
-$> cd /etc
+`$> cd /etc`
  
-$> ls fedora-release 
+`$> ls fedora-release` 
 
-$> ls ../usr/share/doc 
+`$> ls ../usr/share/doc` 
 
-$> ls .
+`$> ls .`
 
-$> cat /etc/passwd
+`$> cat /etc/passwd`
 
 <p align="center">
 <img src="https://github.com/jinca/GNU_Linux/blob/master/Images/passwd.png">
@@ -97,6 +97,6 @@ $> cat /etc/passwd
 
 * Autocompleta Rutas (Absolutas y Relativas de archivos de archivos) 
 
-* Autocompleta nombres de comandos. Ejemplo: ca <TAB> 
+* Autocompleta nombres de comandos. Ejemplo: `ca <TAB>` 
 
-* Autocompleta nombres de variables de entorno. Ejemplo: HOST <TAB> 
+* Autocompleta nombres de variables de entorno. Ejemplo: `HOST <TAB>`
