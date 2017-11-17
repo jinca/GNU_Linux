@@ -40,18 +40,26 @@ Cuando se crea un directorio, un file o archivo es colocado en el disco duro par
 ## Consolas de texto y gráfica
 
 tty1 (Presionando Ctrl+Alt+F1)  ---> consola de texto
+
 tty2 (Presionando Ctrl+Alt+F2)  ---> consola de texto
+
 tty3 (Presionando Ctrl+Alt+F3)  ---> consola de texto
+
 tty4 (Presionando Ctrl+Alt+F4)  ---> consola de texto
+
 tty5 (Presionando Ctrl+Alt+F5)  ---> consola de texto
+
 tty6 (Presionando Ctrl+Alt+F6)  ---> consola de texto
+
 tty7 (Presionando Ctrl+Alt+F7)  ---> consola gráfica
 
 
 ## Prompt del Sistema 
 
 [alumno@localhost ~] 
-| | |__________________________________________ 
-Ruta del Directorio actual 
+
+| | |__________________________________________ Ruta del Directorio actual 
+
 | |_________________________Nombre del Equipo (Hostname) 
+
 |̣___̣_______ Nombre del usuario 
