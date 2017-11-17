@@ -28,6 +28,11 @@ Si desea ser parte de la comunidad de GNOME, puede hacerlo de manera libre y vol
 
 ## Las aplicaciones de GNOME
 
+GNOME tiene aproximadamente [152 aplicaciones](https://wiki.gnome.org/Apps), las cuales están escritas en diferentes [lenguajes de programación](https://developer.gnome.org/) como C, Javascript, Python y GTK. Podemos ver el cógido libremente en los [repos de GNOME](https://git.gnome.org//browse/).
+
+Para poder comenzar a leer código y hacer modificaciones, es recomendable leer el [manual de "newcomers"](https://wiki.gnome.org/Newcomers/) y en caso tenga Ud. dudas o desee asesoramiento online, es posible obtenerlo a través de los diferentes [canales IRC](https://wiki.gnome.org/Community/GettingInTouch/IRC) y/o las [listas de cada uno de los grupos](https://mail.gnome.org/archives/) que contribuyen con GNOME.
+
+Se sugiere instalar Polari para utilizar IRC y comenzar a configurar las salas necesarias para que otros miembros de GNOME puedan asesorarnos remotamente ante cualquier pregunta que tengamos.
 
 ## Eventos de GNOME
 
