@@ -58,8 +58,8 @@ tty7 (Presionando Ctrl+Alt+F7)  ---> consola gráfica
 
 [alumno@localhost ~] 
 
-| | |__________________________________________ Ruta del Directorio actual 
+|        |        |__________________________________________ Ruta del Directorio actual 
 
-| |_________________________Nombre del Equipo (Hostname) 
+|        |_________________________Nombre del Equipo (Hostname) 
 
 |̣___̣_______ Nombre del usuario 
