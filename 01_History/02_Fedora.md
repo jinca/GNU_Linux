@@ -52,6 +52,8 @@ _"Fedora siempre es libre para que cualquiera lo use, modifique y distribuya. Lo
 <img src="https://github.com/jinca/GNU_Linux/blob/master/Images/4Foundations.png">
 </p>
 
+Gracias al apoyo de Fedora LATAM es que se ha logrado organizar eventos 
+
 ## Manejador de Paquetes
 
 DNF es un gestor de paquetes escrito en python, que usa curl, y apareció por primera vez disponible para la versión de F18 y es el gestor de paquetes oficial para Fedora 22.
