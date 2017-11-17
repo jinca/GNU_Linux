@@ -12,7 +12,7 @@ El proyecto fue iniciado por los programadores de software libre mexicanos Migue
 
 Se ha celebrado los [20 años de GNOME](https://www.gnome.org/news/2017/08/twenty-years-strong/) el 15 de Agosto del año 2017, conmemorando la versión de GNOME 1.0 en 1999. 
 
-La reciente versión de GNOME es la 3.26 y corre sobre los sistemas operativos Fedora, Ubuntu, OpenSUSE, Debian, Red Hat Enterprise Linux, CentOS, Oracle Linux, SteamOS, Tails y Kali Linux. Las versiones cambian cada 6 meses aproximadamente y su código está disponible en la cuenta [GIT de GNOME](https://git.gnome.org//browse/).
+La reciente versión de GNOME es la 3.26 y corre sobre los sistemas operativos Fedora, Ubuntu, OpenSUSE, Debian, Red Hat Enterprise Linux, CentOS, Arch Linux, Gentoo, BSD, Oracle Linux, SteamOS, Tails y Kali Linux. Las versiones cambian cada 6 meses aproximadamente y su código está disponible en la cuenta [GIT de GNOME](https://git.gnome.org//browse/).
 
 ## La comunidad GNOME
 
