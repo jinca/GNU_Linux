@@ -22,6 +22,10 @@ Se cuenta con el apoyo de la [Fundación GNOME](https://www.gnome.org/foundation
 
 Si desea ser parte de la comunidad de GNOME, puede hacerlo de manera libre y voluntaria revisando la [wiki](https://wiki.gnome.org/Community) donde se indica que es lo que podemos hacer por GNOME.
 
+<p align="center">
+<img src="https://github.com/jinca/GNU_Linux/blob/master/Images/guadec2012.png">
+</p>
+
 ## Las aplicaciones de GNOME
 
 
