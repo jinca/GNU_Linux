@@ -16,8 +16,6 @@ Ejemplo:  myfile, Myfile y myFILE  son tres archivos diferentes.
 
 ## Tipos de Archivos
 
-Ficheros (Archivos)
-
 **Planos** /etc/sysconfig/network (contiene información de configuración)
 
 **Binarios** /bin/ls (contiene información como funciones comunes y gráficos)
@@ -31,6 +29,29 @@ Ficheros (Archivos)
 **Especiales** /dev/sda1 (representa los diferentes dispositivos del sistema, 
  como discos duros, puertos seriales y particiones montadas en la raíz)
 
+## Files everywhere!!!
+
+¿Qué pasa con los directorios o folders?
+
+Los directorios son archivos especiales que sirven como almacenador para organizar otros archivos.
+
+Cuando se crea un directorio, un file o archivo es colocado en el disco duro para representar dicho directorio.
+
+## Consolas de texto y gráfica
+
+tty1 (Presionando Ctrl+Alt+F1)  ---> consola de texto
+tty2 (Presionando Ctrl+Alt+F2)  ---> consola de texto
+tty3 (Presionando Ctrl+Alt+F3)  ---> consola de texto
+tty4 (Presionando Ctrl+Alt+F4)  ---> consola de texto
+tty5 (Presionando Ctrl+Alt+F5)  ---> consola de texto
+tty6 (Presionando Ctrl+Alt+F6)  ---> consola de texto
+tty7 (Presionando Ctrl+Alt+F7)  ---> consola gráfica
 
 
-Ficheros (Archivos) -------------------- @ Planos /etc/sysconfig/network @ Binarios /bin/ls @ Enlaces /etc/system-release -> /etc/fedora-release @ Especiales /dev/sda1-->partición montada en la raiz / tty1 . ] . ]--->consolas de texto . ] tty6 ] tty7 --->consola de gráfica tty1 --> Entrar con Ctrl+Alt+F1, para tty3 (Ctrl+Alt+F3) Prompt del Sistema ------------------------------ [alumno@localhost ~] | | |__________________________________________ Ruta del Directorio actual | |_________________________Nombre del Equipo (Hostname) |̣___̣_______ Nombre del usuario 
+## Prompt del Sistema 
+
+[alumno@localhost ~] 
+| | |__________________________________________ 
+Ruta del Directorio actual 
+| |_________________________Nombre del Equipo (Hostname) 
+|̣___̣_______ Nombre del usuario 
