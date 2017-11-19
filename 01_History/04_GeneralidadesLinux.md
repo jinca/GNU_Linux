@@ -29,7 +29,7 @@ Ejemplo:  myfile, Myfile y myFILE  son tres archivos diferentes.
 **Especiales** /dev/sda1 (representa los diferentes dispositivos del sistema, 
  como discos duros, puertos seriales y particiones montadas en la raíz)
 
-## Files everywhere!!!
+## Files everywhere!
 
 ¿Qué pasa con los directorios o folders?
 
@@ -179,3 +179,34 @@ _Presenta, secuencialmente, todas las páginas del comando ls disponibles en el 
 `$> man -k printf`
 
 _Lista todos los manuales (incluido el tipo de manual) donde haga referencia a printf._
+
+
+## Enlaces de Archivos y Directorios: 
+
+Existen dos tipos de enlaces: blandos y duros 
+
+**Crear un enlace blando** (similar al acceso directo, si se borra el archivo original el enlace se queda roto) 
+
+`$> ln -s /usr/bin /programas` 
+
+`$> ls -l /` 
+
+_El acceso directo se comporta como el directo original_ 
+
+`$> ls -l /programas/` 
+
+**Crear un enlace duro al archivo**, _si se borra el archivo este no desaparecera hasta que se borren todos los enlaces duros apuntando a el_
+
+`$> ln /bin/touch /bin/tocar`
+
+`$> cd /bin` 
+
+`$> cp -p touch touch.bk` 
+
+`$> rm -f /bin/touch` 
+
+`$> ls -li /bin/tocar` 
+
+`$> /bin/tocar archivo` 
+
+`$> mv /bin/touch.bk /bin/touch`
