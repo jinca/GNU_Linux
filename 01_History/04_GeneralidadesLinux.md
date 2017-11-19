@@ -100,3 +100,73 @@ _Responder:_
 * Autocompleta nombres de comandos. Ejemplo: `ca <TAB>` 
 
 * Autocompleta nombres de variables de entorno. Ejemplo: `HOST <TAB>`
+
+## Modo Interactivo (para comandos como man,less) 
+
+Flecha Arriba y Abajo, AvPág RetPág --> Navegan por la visualización 
+
+/cadena --> busca cadena (se pueden usar expresiones regulares) 
+
+n --> sigue buscando 
+
+1G --> va a primera linea 
+
+G --> va a la ultima línea 
+
+27G --> va a linea 27 
+
+q --> salir del modo interactivo 
+
+
+## Ayuda del Sistema 
+
+El comando man nos sirve para revisar la documentación de un comando 
+
+`$> man ls`
+
+`/directory`
+
+`n` 
+
+`n`
+
+`1G` 
+
+`/reverse` 
+
+n 
+
+G 
+
+q 
+
+
+## Secciones de Manuales 
+
+Hay diferentes secciones de páginas de manual, cada tipo se diferencia por un número, que se detallan a continuación: 
+
+**1** Programas ejecutables y guiones del intérprete de órdenes 
+
+**2** Llamadas del sistema (funciones servidas por el núcleo) 
+
+**3** Llamadas de la biblioteca (funciones contenidas en las bibliotecas del sistema) 
+
+**4** Ficheros especiales (se encuentran generalmente en /dev) 
+
+**5** Formato de ficheros y convenios p.ej. /etc/passwd 
+
+**6** Juegos 7 Paquetes de macros y convenios p.ej. man(7), groff(7). 
+
+**8** Órdenes de administración del sistema (generalmente solo son para root) 
+
+**9** Rutinas del núcleo [No es estándar] n nuevo [obsoleto] l local [obsoleto] p público [obsoleto] o viejo [obsoleto] 
+
+`$> man 1 ls` 
+_Lista el manual de la sección 1 del comando ls_
+
+`$> man -a ls`
+_Presenta, secuencialmente, todas las páginas del comando ls disponibles en el manual. Entre página y página se puede decidir saltar a la siguiente o salir del paginador completamente._
+
+`$> man -k printf`
+_Lista todos los manuales (incluido el tipo de manual) donde haga referencia a printf._
+
