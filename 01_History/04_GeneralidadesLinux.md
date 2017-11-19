@@ -183,9 +183,11 @@ _Lista todos los manuales (incluido el tipo de manual) donde haga referencia a p
 
 ## Enlaces de Archivos y Directorios: 
 
-Existen dos tipos de enlaces: blandos y duros 
+* Existen dos tipos de enlaces: blandos y duros 
 
-**Crear un enlace blando** (similar al acceso directo, si se borra el archivo original el enlace se queda roto) 
+**Crear un enlace blando** 
+
+Similar al acceso directo, si se borra el archivo original el enlace se queda roto.
 
 `$> ln -s /usr/bin /programas` 
 
@@ -195,7 +197,9 @@ _El acceso directo se comporta como el directo original_
 
 `$> ls -l /programas/` 
 
-**Crear un enlace duro al archivo**, _si se borra el archivo este no desaparecera hasta que se borren todos los enlaces duros apuntando a el_
+**Crear un enlace duro al archivo**, 
+
+Si se borra el archivo este no desaparecera hasta que se borren todos los enlaces duros apuntando a él.
 
 `$> ln /bin/touch /bin/tocar`
 
