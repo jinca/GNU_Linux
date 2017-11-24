@@ -1,4 +1,4 @@
-== Primera Experiencia ==
+## Primera Experiencia ##
 
 Loguearse como root
  
