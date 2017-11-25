@@ -86,40 +86,40 @@ Configura el password para el usuario linuxero
 
 ## Archivos importantes ##
 
-Lista de usuarios
+* Lista de usuarios
 
-`/etc/passwd`  
+   `/etc/passwd`  
 
-Lista de grupos
+* Lista de grupos
 
-`/etc/group`
+   `/etc/group`
 
-Lista de contraseñas
+* Lista de contraseñas
 
-`/etc/shadow` 
+   `/etc/shadow` 
 
 ## Modificar usuarios ##
 
 * Filtramos a tuxito dentro del archivo /etc/passwd
 
-`$> grep tuxito /etc/passwd` 
+   `$> grep tuxito /etc/passwd` 
 
 * Modificamos la desripción o contenido del usuario tuxito 
 
-`$> usermod -c "tuxito hacker"` 
+   `$> usermod -c "tuxito hacker"` 
 
-`$> grep tuxito /etc/passwd` 
+   `$> grep tuxito /etc/passwd` 
 
 * Modifica el archivo de usuario
 
-`$> vim /etc/passwd` 
+   `$> vim /etc/passwd` 
 
 ## Borrar usuarios ##
 
 * Borra el usuario pero no su directorio de trabajo 
 
-`$> userdel linuxero`
+   `$> userdel linuxero`
 
 * Borra el usuario incluyendo su directorio
 
-`$> userdel -r tuxito`
+   `$> userdel -r tuxito`
