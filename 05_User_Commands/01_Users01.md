@@ -37,15 +37,21 @@ Archivo de usuarios
 `$> grep linuxero /etc/passwd` 
 
 > linuxero: x: 1003: 100: linuxero fanatico:/home/linuxero:/bin/bash
-
+>
 > Donde: 
-
+>
 > linuxero = nombre del usuario 
+>
 > x = la clave del usuario esta en /etc/shadow 
+>
 > 1003 = uid del usuario 
+>
 > 100 = gid del usuario 
+>
 > linuxero fanatico = descripción 
+>
 > /home/linuxero = directorio de trabajo del usuario 
+>
 > /bin/bash = interpretes de comandos 
 
 Archivo de grupos
@@ -53,12 +59,15 @@ Archivo de grupos
 `$> grep users /etc/group` 
 
 > users: x: 100: pepito,tuxito,windozero 
-
+>
 > Donde: 
-
+>
 > users = nombre del grupo 
+>
 > x = la clave del grupo esta en /etc/gshadow (no es comun) 
+>
 > 100 = gid del grupo 
+>
 > pepito,tuxito,windozero = usuarios adicionales del grupo 
 
 Archivo de contraseñas
@@ -66,11 +75,13 @@ Archivo de contraseñas
 `$> grep linuxero /etc/shadow`  
 
 > linuxero:$6$qf7G8CbU$R9wiKgiN0rVaP1qsjQnzRsYfywP3L468:15297:0:99999:7::: 
-
+>
 > Donde: 
-
+>
 > linuxero = nombre del usuario 
+>
 > $6$qf7G... = contraseña encriptada en un algoritmo como MD5, SSHA 
+>
 > 15297:0:99999:7::: = validación expiración de la contraseña 
 
 ## Archivos importantes ##
