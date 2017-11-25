@@ -32,7 +32,7 @@ Configura el password para el usuario linuxero
 
 `$> passwd linuxero` 
 
-Archivo de usuarios
+**Archivo de usuarios**
 
 `$> grep linuxero /etc/passwd` 
 
@@ -54,7 +54,7 @@ Archivo de usuarios
 >
 > /bin/bash = interpretes de comandos 
 
-Archivo de grupos
+**Archivo de grupos**
 
 `$> grep users /etc/group` 
 
@@ -70,7 +70,7 @@ Archivo de grupos
 >
 > pepito,tuxito,windozero = usuarios adicionales del grupo 
 
-Archivo de contraseñas
+**Archivo de contraseñas** 
 
 `$> grep linuxero /etc/shadow`  
 
@@ -100,26 +100,26 @@ Lista de contraseñas
 
 ## Modificar usuarios ##
 
-Filtramos a tuxito dentro del archivo /etc/passwd
+* Filtramos a tuxito dentro del archivo /etc/passwd
 
 `$> grep tuxito /etc/passwd` 
 
-Modificamos la desripción o contenido del usuario tuxito 
+* Modificamos la desripción o contenido del usuario tuxito 
 
 `$> usermod -c "tuxito hacker"` 
 
 `$> grep tuxito /etc/passwd` 
 
-Modifica el archivo de usuario
+* Modifica el archivo de usuario
 
 `$> vim /etc/passwd` 
 
 ## Borrar usuarios ##
 
-Borra el usuario pero no su directorio de trabajo 
+* Borra el usuario pero no su directorio de trabajo 
 
 `$> userdel linuxero`
 
-Borra el usuario incluyendo su directorio
+* Borra el usuario incluyendo su directorio
 
 `$> userdel -r tuxito`
