@@ -2,17 +2,17 @@
 
 `ESC`: ingresa al modo comando 
 
-`i`: entra en modo insercion desde la misma linea 
+`i`: entra en modo inserción desde la misma linea 
 
-`o`: entra en modo insercion desde la sgte linea 
+`o`: entra en modo inserción desde la sgte linea 
 
-`1G`: va a la primera linea 
+`1G`: va a la primera línea 
 
-`23G`: va a la linea 23 
+`23G`: va a la línea 23 
 
-`:45`: va a la linea 45 
+`:45`: va a la línea 45 
 
-`G`: va a la ultima linea 
+`G`: va a la última línea 
 
 `/palabra`: busca una cadena 
 
@@ -70,17 +70,17 @@
 
 `D`: elimina texto desde el cursosr actual hasta el final de la linea 
 
-`dG`: elimina todo hasta la ultima linea 
+`dG`: elimina todo hasta la última línea 
 
 `:wq! ++utf8`: guarda el fichero en modo UTFP (por defecto) 
 
-`:nohl`: cancela los resultados de busqueda 
+`:nohl`: cancela los resultados de búsqueda 
 
 
 ## Instalar VIM ##
 
-$> su - 
+`$> su -` 
 
-$> dnf -y install vim-enhanced
+`$> dnf -y install vim-enhanced`
 
 
